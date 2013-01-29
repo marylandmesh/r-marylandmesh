@@ -1,3 +1,24 @@
 /*
   /r/marylandmesh
 */
+
+#sr-header-area {
+  background-color: #FFF;
+}
+
+#sr-header-area a {
+  color: #F90;
+}
+
+#sr-header-area a:hover {
+  color: #000;
+  text-decoration: none;
+}
+
+li.selected a {
+  color: #000 !important;
+}
+
+#sr-more-link{
+  background-color: #FFF;
+}
