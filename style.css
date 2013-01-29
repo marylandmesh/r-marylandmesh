@@ -67,6 +67,20 @@ a:hover, .pref-lang:hover {
   color: #5a23ac;
 }
 
+.usertext-body {
+  color: #000 !important;
+  text-align: justify;
+}
+
+.usertext-body ul {
+  padding: 5px;
+  margin: 0px 15px 0px 9px;
+}
+
+.usertext-body li {
+  list-style: none;
+}
+
 .usertext-body blockquote {
   border: none;
   text-align: center;
