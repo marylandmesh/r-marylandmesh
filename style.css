@@ -106,9 +106,15 @@ a:hover, .pref-lang:hover {
   border: 1px solid #CCC;
 }
 
-.tabmenu li.selected a {
-  border: 1px solid #333;
-  border-bottom: none;
+.tabmenu.formtab li, .tabmenu.formtab li.selected {
+  margin: 2px;
+}
+
+.tabmenu li.selected a, .tabmenu formtab li.selected {
+  border: 1px solid #333 !important;
+  background-color: #FFF !important;
+  border-bottom: none !important;
+  font-size: 12px !important;
 }
 
 a.title {
@@ -143,13 +149,13 @@ a.title:visited:hover {
   color: #000 !important;
 }
 
-.linefield, .linefield.moderator {
-  background-color: #EEE;
-  border: 1px solid #CCC;
+.linefield, .linefield.moderator, .roundfield, .infobar, .roundfield info-notice {
+  background-color: #EEE !important;
+  border: 1px solid #CCC !important;
   color: #000;
 }
 
-.linefield .title, .hover.pagename.redditname {
+.linefield .title, .hover.pagename.redditname, .roundfield .title {
   color: #000;
 }
 
@@ -174,4 +180,8 @@ a.title:visited:hover {
 .usertext-body th {
   background-color: #FFF;
   padding: 10px;
+}
+
+h1 {
+  color: #000 !important;
 }
