@@ -12,7 +12,7 @@
 }
 
 #sr-header-area a {
-  color: #F90;
+  color: #5a23ac;
 }
 
 #sr-header-area a:hover {
@@ -40,7 +40,7 @@ li.selected a {
 }
 
 a, .pref-lang {
-  color: #F90;
+  color: #5a23ac;
   font-weight: 400;
   text-decoration: none !important;
 }
@@ -84,7 +84,7 @@ a:hover, .pref-lang:hover {
 }
 
 .usertext-body blockquote a:hover {
-  color: #F90;
+  color: #5a23ac;
 }
 
 .tabmenu li a {
