@@ -64,7 +64,7 @@ a:hover, .pref-lang:hover {
 }
 
 .sidecontentbox a:hover {
-  color: #F90;
+  color: #5a23ac;
 }
 
 .usertext-body blockquote {
@@ -95,4 +95,16 @@ a:hover, .pref-lang:hover {
 .tabmenu li.selected a {
   border: 1px solid #333;
   border-bottom: none;
+}
+
+a.title {
+  color: #000 !important;
+}
+
+a.title:hover {
+  color: #5a23ac !important;
+}
+
+a.title:visited {
+  color: #CCC !important;
 }
