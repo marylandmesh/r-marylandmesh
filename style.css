@@ -2,8 +2,13 @@
   /r/marylandmesh
 */
 
+#header {
+  border-bottom: 1px solid #CCC;
+}
+
 #sr-header-area {
   background-color: #FFF;
+  border-bottom: 1px solid #CCC;
 }
 
 #sr-header-area a {
@@ -17,8 +22,77 @@
 
 li.selected a {
   color: #000 !important;
+  font-weight: 900;
 }
 
 #sr-more-link{
   background-color: #FFF;
+}
+
+#header-bottom-left {
+  background-color: #F9F9F9;
+}
+
+#header-bottom-right {
+  background-color: #FFF;
+  border-top: 1px solid #CCC;
+  border-left: 1px solid #CCC;
+}
+
+a, .pref-lang {
+  color: #F90;
+  font-weight: 400;
+  text-decoration: none !important;
+}
+
+a:hover, .pref-lang:hover {
+  color: #000;
+  font-weight: 400;
+  text-decoration: none !important;
+}
+
+.buygold {
+  color: #F90;
+}
+
+.buygold:hover {
+  font-weight: 900;
+}
+
+.sidecontentbox a {
+  color: #000;
+}
+
+.sidecontentbox a:hover {
+  color: #F90;
+}
+
+.usertext-body blockquote {
+  border: none;
+  text-align: center;
+}
+
+.usertext-body blockquote p {
+  border: 1px solid #CCC;
+  margin-top: 5px;
+  padding: 5px;
+  background-color: #EEE;
+}
+
+.usertext-body blockquote a {
+  color: #000;
+}
+
+.usertext-body blockquote a:hover {
+  color: #F90;
+}
+
+.tabmenu li a {
+  background-color: #FFF;
+  border: 1px solid #CCC;
+}
+
+.tabmenu li.selected a {
+  border: 1px solid #333;
+  border-bottom: none;
 }
