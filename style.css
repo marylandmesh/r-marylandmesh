@@ -108,3 +108,7 @@ a.title:hover {
 a.title:visited {
   color: #CCC !important;
 }
+
+a.title:visited:hover {
+  color: #AAA !important;
+}
