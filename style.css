@@ -106,9 +106,25 @@ a.title:hover {
 }
 
 a.title:visited {
-  color: #CCC !important;
+  color: #BBB !important;
 }
 
 a.title:visited:hover {
   color: #AAA !important;
+}
+
+.moderator, a.moderator {
+  color: #b08ae9 !important;
+}
+
+.friend, a.friend {
+  color: #5a23ac !important;
+}
+
+.author, a.author {
+  color: #000;
+}
+
+.users-online, .subscribers {
+  color: #000 !important;
 }
