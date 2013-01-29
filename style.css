@@ -114,7 +114,7 @@ a.title:visited:hover {
 }
 
 .moderator, a.moderator {
-  color: #b08ae9 !important;
+  color: #0072dd !important;
 }
 
 .friend, a.friend {
@@ -127,4 +127,14 @@ a.title:visited:hover {
 
 .users-online, .subscribers {
   color: #000 !important;
+}
+
+.linefield, .linefield.moderator {
+  background-color: #EEE;
+  border: 1px solid #CCC;
+  color: #000;
+}
+
+.linefield .title, .hover.pagename.redditname {
+  color: #000;
 }
