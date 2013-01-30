@@ -121,7 +121,7 @@ a:hover, .pref-lang:hover {
  border-top: 1px solid #CCC;
 }
 
-a.title {
+a.title, .title {
   color: #000 !important;
 }
 
