@@ -189,3 +189,9 @@ a.title:visited:hover {
 h1 {
   color: #000 !important;
 }
+
+.linkinfo {
+  background-color: #F9F9F9 !important;
+  color: #000 !important;
+  border: 1px solid #CCC;
+}
