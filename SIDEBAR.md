@@ -6,9 +6,9 @@
 
 > [Nodeshot](http://maryland.ninux.org/)
 
-> [Contact](https://maryland.projectmeshnet.org/contact.php)
+> [Contact](https://maryland.projectmeshnet.org/contact/)
 
-> [FAQ](https://maryland.projectmeshnet.org/faq.php)
+> [FAQ](https://maryland.projectmeshnet.org/faq/)
 
 * Hello there. We are a group of people dedicated to reforming the Internet, and rebuilding it from the ground up so that it can be brought to *everyone*.
 
@@ -16,7 +16,7 @@
 
 * No entity should have the power to control what can be said, or to whom, across the Internet. That is why we want to put the Internet in the hands of the people - in your hands, and in your friends' hands, and in your neighbors' hands.
 
-* That's why we're building a [Meshnet](https://maryland.projectmeshnet.org/faq.php#meshnet).
+* That's why we're building a [Meshnet](https://maryland.projectmeshnet.org/faq/#meshnet).
 
 * Join us on IRC!
 
