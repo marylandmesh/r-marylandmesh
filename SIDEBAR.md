@@ -4,11 +4,13 @@
 
 > [Google+](https://plus.google.com/communities/100874292106037502249)
 
-> [Nodeshot](http://maryland.ninux.org/)
+> [Nodeshot](http://map.maryland.projectmeshnet.org/)
 
 > [Contact](https://maryland.projectmeshnet.org/contact/)
 
 > [FAQ](https://maryland.projectmeshnet.org/faq/)
+
+> [Statistics](http://stats.hyperboria.net/)
 
 * Hello there. We are a group of people dedicated to reforming the Internet, and rebuilding it from the ground up so that it can be brought to *everyone*.
 
