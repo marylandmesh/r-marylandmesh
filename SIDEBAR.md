@@ -1,31 +1,36 @@
+Hello there. We are a group of people dedicated to reforming the Internet, and rebuilding it from the ground up so that it can be brought to *everyone*.
+
+We believe knowledge, and information, and communication should be free, open, and universal. No price can be put on the technology that has allowed collaboration and sharing across the world.
+
+No entity should have the power to control what can be said, or to whom, across the Internet. That is why we want to put the Internet in the hands of the people - in your hands, and in your friends' hands, and in your neighbors' hands.
+
+That's why we're building a Meshnet. Come join us!
+
 > [Website](https://maryland.projectmeshnet.org/)
 
 > [Wiki](https://wiki.projectmeshnet.org/Maryland_Mesh)
 
 > [Google+](https://plus.google.com/communities/100874292106037502249)
 
-> [Nodeshot](http://map.maryland.projectmeshnet.org/)
+> [Twitter](https://twitter.com/MarylandMesh)
 
-> [Contact](https://maryland.projectmeshnet.org/contact/)
+> [IRC](https://chat.projectmeshnet.org/?channels=#marylandmesh)
 
-> [FAQ](https://maryland.projectmeshnet.org/faq/)
 
-> [Statistics](http://stats.hyperboria.net/)
+**Related Subreddits**
 
-* Hello there. We are a group of people dedicated to reforming the Internet, and rebuilding it from the ground up so that it can be brought to *everyone*.
+[/r/darknetplan](http://www.reddit.com/r/darknetplan)
 
-* We believe knowledge, and information, and communication should be free, open, and universal. No price can be put on the technology that has allowed collaboration and sharing across the world.
+[/r/hyperboria](http://www.reddit.com/r/hyperboria)
+ 
 
-* No entity should have the power to control what can be said, or to whom, across the Internet. That is why we want to put the Internet in the hands of the people - in your hands, and in your friends' hands, and in your neighbors' hands.
+**Other Meshlocal Subreddits**
 
-* That's why we're building a [Meshnet](https://maryland.projectmeshnet.org/faq/#meshnet).
+[/r/SeattleMeshnet](http://www.reddit.com/r/seattlemeshnet)
 
-* Join us on IRC!
+[/r/NYCmeshnet](http://www.reddit.com/r/nycmeshnet/)
 
-|          | Webchat | Direct Link |
-| -------- | ------- | ----------- |
-| Effet    | [link](http://chat.efnet.org:9090/?channels=%23marylandmesh&Login=Login)    | [link](irc://irc.efnet.org/marylandmesh)        |
-| Freenode | [link](https://webchat.freenode.net/?channels=%23marylandmesh&Login=Login)    | [link](irc://irc.freenode.net/marylandmesh)        |
-| Hypeirc  |         | [link](http://hypeirc.net/)        |
+[/r/ProvidenceMeshnet](http://www.reddit.com/r/providencemeshnet)
 
-*  
+[/r/LondonMeshnet](http://www.reddit.com/r/LondonMeshnet)
+
