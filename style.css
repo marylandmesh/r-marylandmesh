@@ -2,196 +2,131 @@
   /r/marylandmesh
 */
 
-#header {
-  border-bottom: 1px solid #CCC;
+body {
+  color: #444;
 }
 
-#sr-header-area {
-  background-color: #FFF;
-  border-bottom: 1px solid #CCC;
-}
-
-#sr-header-area a {
-  color: #5a23ac;
-}
-
-#sr-header-area a:hover {
+a {
   color: #000;
   text-decoration: none;
 }
 
-li.selected a {
-  color: #000 !important;
-  font-weight: 900;
+a:hover {
+  color: #666;
 }
 
-#sr-more-link{
-  background-color: #FFF;
-}
-
-#header-bottom-left {
-  background-color: #F9F9F9;
-}
-
-#header-bottom-right {
-  background-color: #FFF;
-  border-top: 1px solid #CCC;
-  border-left: 1px solid #CCC;
-}
-
-a, .pref-lang {
-  color: #5a23ac;
-  font-weight: 400;
-  text-decoration: none !important;
-}
-
-a:hover, .pref-lang:hover {
-  color: #000;
-  font-weight: 400;
-  text-decoration: none !important;
-}
-
-.buygold {
-  color: #F90;
-}
-
-.buygold:hover {
-  font-weight: 900;
-}
-
-.sidecontentbox a {
-  color: #000;
-}
-
-.sidecontentbox a:hover {
-  color: #5a23ac;
-}
-
-.usertext-body {
-  color: #000 !important;
-  text-align: justify;
-}
-
-.usertext-body ul {
-  padding: 5px;
-  margin: 0px 15px 0px 9px;
-}
-
-.usertext-body li {
-  list-style: none;
-}
-
-.usertext-body blockquote {
+.md blockquote {
   border: none;
-  text-align: center;
+  margin: 0;
+  padding: 0px;
 }
 
-.usertext-body blockquote p {
-  border: 1px solid #CCC;
-  margin-top: 5px;
+.md blockquote p {
+  background-color: #F2F2F2;
   padding: 5px;
-  background-color: #EEE;
+  font-weight: 900;
 }
 
-.usertext-body blockquote a {
-  color: #000;
-}
-
-.usertext-body blockquote a:hover {
-  color: #5a23ac;
-}
-
-.tabmenu li a {
-  background-color: #FFF;
-  border: 1px solid #CCC;
-}
-
-.tabmenu.formtab li, .tabmenu.formtab li.selected {
-  margin: 2px;
-}
-
-.tabmenu li.selected a, .tabmenu formtab li.selected {
-  border: 1px solid #333 !important;
-  background-color: #FFF !important;
-  border-bottom: none !important;
-  font-size: 12px !important;
-}
-
-.formtabs-content {
- border-top: 1px solid #CCC;
-}
-
-a.title, .title {
+a.title {
   color: #000 !important;
 }
 
 a.title:hover {
-  color: #5a23ac !important;
+  color: #666 !important;
 }
 
 a.title:visited {
-  color: #BBB !important;
+  color: #999 !important;
 }
 
-a.title:visited:hover {
-  color: #AAA !important;
-}
-
-.moderator, a.moderator {
-  color: #0072dd !important;
-}
-
-.friend, a.friend {
-  color: #5a23ac !important;
-}
-
-.author, a.author {
+a.login-required {
+  background-color: #F2F2F2;
+  border: none;
   color: #000;
+  font-weight: 400;
 }
 
-.users-online, .subscribers {
+.nub {
+  display: none;
+}
+
+.morelink {
+  border: none;
+}
+
+ul.tabmenu li a {
+  font-weight: 400;
+  background-color: transparent;
+}
+
+ul.tabmenu li.selected a {
+  color: #000 !important;
+  border: 1px solid #000;
+  border-bottom: 1px solid #FFF;
+}
+
+#header {
+  border-color: #000;
+}
+
+#header-bottom-left {
+  background-image: url(%%readme%%);
+}
+
+#sr-header-area {
+  background-color: #76bcae;
+  color: #FFF;
+}
+
+#sr-header-area a, #sr-header-area .separator {
+  color: #FFF;
+}
+
+#sr-header-area .subbarlink.RESShortcutsCurrentSub {
   color: #000 !important;
 }
 
-.linefield, .linefield.moderator, .roundfield, .infobar, .roundfield info-notice {
-  background-color: #EEE !important;
-  border: 1px solid #CCC !important;
-  color: #000;
+#sr-header-area #RESShortcutsEditContainer, #RESShortcutsSort, 
+#RESShortcutsRight, #RESShortcutsAdd, #RESShortcutsLeft, a#sr-more-link,
+#userbarToggle {
+  background-color: #76bcae !important;
+  color: #FFF !important;
 }
 
-.linefield .title, .hover.pagename.redditname, .roundfield .title {
-  color: #000;
+#header-bottom-right {
+  background-color: #FFF !important;
 }
 
-.usertext-body table {
-  text-align: center;
-  border: 1px solid #CCC;
-  margin: auto;
+.user a.login-required {
+  background-color: #FFF !important;
 }
 
-.usertext-body td {
-  padding: 10px;
-}
-
-.usertext-body tr:nth-child(odd) {
-  background-color: #F9F9F9;
-}
-
-.usertext-body tr:nth-child(even) {
-  background-color: #FFF;
-}
-
-.usertext-body th {
-  background-color: #FFF;
-  padding: 10px;
-}
-
-h1 {
-  color: #000 !important;
-}
-
-.linkinfo {
+.RES-keyNav-activeElement {
   background-color: #F9F9F9 !important;
-  color: #000 !important;
-  border: 1px solid #CCC;
+}
+
+#header-img {
+  padding: 5px 20px;
+}
+
+#RESPrefsDropdown, #RESMainGearOverlay {
+  background-color: #FFF;
+  border: none;
+  color: #000;
+}
+
+#RESDropdownOptions li a {
+  border: none;
+  color: #76bcae;
+}
+
+#RESDropdownOptions li {
+  border: 1px solid #F2F2F2;
+  border-bottom: none;
+  color: #76bcae;
+}
+
+#RESDropdownOptions li:hover, #RESDropdownOptions li a:hover {
+  background-color: #F2F2F2;
+  color: #000;
 }
